@@ -1,3 +1,3 @@
-const message = "Olá Eughenio!";
-
-console.log(message);
+export const sayMyName = (): string => {
+  return "Eughenio";
+};
