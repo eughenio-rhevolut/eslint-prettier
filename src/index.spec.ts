@@ -3,5 +3,5 @@ import { sayMyName } from "./index";
 
 it("sayMyName", () => {
   const sayName = sayMyName();
-  expect(sayName).toBe("Eughenio");
+  expect(sayName).toBe("Eughenio Constantino");
 });

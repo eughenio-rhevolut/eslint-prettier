@@ -1,5 +1,5 @@
 export const sayMyName = (): string => {
-  const name = "Eughenio";
+  const name = "Eughenio Constantino";
 
   console.log(name);
 
