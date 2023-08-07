@@ -1,3 +1,7 @@
 export const sayMyName = (): string => {
-  return "Eughenio";
+  const name = "Eughenio";
+
+  console.log(name);
+
+  return name;
 };
